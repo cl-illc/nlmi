@@ -14,6 +14,10 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [Sequence labelling](//docs.google.com/forms/d/e/1FAIpQLSe_A1ZHQEGImiolZKuE38RigL5Jq-tLXtwQE7xIc0bOTiqV4g/viewform?usp=sf_link)
 
 
+# Slides
+
+* [Week 1-a](lectures/week1-a.pdf)
+
 
 # Contact
 
