@@ -6,6 +6,7 @@ This is the page of the course *Natural Language Models and Interfaces* (or *Nat
 
 # Quizzes
 
+Sometimes we make use of anonymous quizzes (through Google forms) to make the lectures more interactive.
 
 * Week 1-a
     * [Sentence prediction](//docs.google.com/forms/d/e/1FAIpQLScQd0svtQ56s_P0ZMqvjp6Fj1HbXTVjig9yMZkUGh68QlryMA/viewform?usp=sf_link)
