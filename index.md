@@ -4,6 +4,9 @@ layout: main
 
 This is the page of the course *Natural Language Models and Interfaces* (or *Natuurlijke Taalmodellen en Interfaces* in Dutch) offered at the [University of Amsterdam][UvA]
 
+Course coordinator: [Wilker Aziz](//wilkeraziz.github.io) 
+
+
 # Quizzes
 
 Sometimes we make use of anonymous quizzes (through Google forms) to make the lectures more interactive.
@@ -19,9 +22,7 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
 * [Week 1-a](lectures/week1-a.pdf)
 
 
-# Contact
 
-You can contact [Wilker Aziz](//wilkeraziz.github.io) by email or visiting his office at Science Park 107 F2.11.
 
 
 [UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
