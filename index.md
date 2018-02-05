@@ -6,6 +6,8 @@ This is the page of the course *Natural Language Models and Interfaces* (or *Nat
 
 Course coordinator: [Wilker Aziz](//wilkeraziz.github.io) 
 
+![course](img/qr.png){: style="float: right; margin: 0px 20px; width: 200px; height: 200px" }
+
 
 # Quizzes
 
