@@ -22,7 +22,9 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
 * [Week 1-a](lectures/week1-a.pdf)
 
 
+# Illustrations
 
+* [Sequence to sequence](img/seq2seq.gif) -- animation from [Google's seq2seq framework](https://github.com/google/seq2seq)
 
 
 [UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
