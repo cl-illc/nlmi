@@ -19,7 +19,7 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
 
 # Slides
 
-* [Week 1-a](lectures/week1-a.pdf)
+* [Week 1-a](lectures/week1-a.pdf): intro to the course, what's NLP about, overview of problems
 
 
 # Illustrations
