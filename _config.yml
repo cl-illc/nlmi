@@ -1,4 +1,4 @@
-exclude: [README.md]
+exclude: [README.md, labs/README.md]
 title: NLMI
 email: w.aziz@uva.nl
 description: > 
