@@ -23,12 +23,6 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [MLE](//docs.google.com/forms/d/e/1FAIpQLSc3XGy0KIxTRbnzHnuT5fEjY427ISwp0EaHDgtq-n2SeTj77w/viewform?usp=sf_link)
 
 
-# Slides
-
-* [Week 1-a](lectures/week1-a.pdf): intro to the course, what's NLP about, overview of problems
-* [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
-
-
 # Illustrations
 
 * [Sequence to sequence](img/seq2seq.gif) --- animation from [Google's seq2seq framework](https://github.com/google/seq2seq)
