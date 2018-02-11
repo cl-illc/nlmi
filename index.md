@@ -21,6 +21,8 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [Bernoulli distribution](//docs.google.com/forms/d/e/1FAIpQLSfM_T3YNHlyhGryZq3pNC4vVbk5gLOamBW8UEJTwFs-OKsoTg/viewform?usp=sf_link)
     * [Categorical distribution](//docs.google.com/forms/d/e/1FAIpQLSfmwkWB0UJIXbhmAOMntLnY-5CfrdHJ8WjGPz1ktVpaQpMVsQ/viewform?usp=sf_link)
     * [MLE](//docs.google.com/forms/d/e/1FAIpQLSc3XGy0KIxTRbnzHnuT5fEjY427ISwp0EaHDgtq-n2SeTj77w/viewform?usp=sf_link)
+* Week 2-a
+    * [Random words](//docs.google.com/forms/d/e/1FAIpQLSfDdqy0anGhrvWt6IakMhFCZF1ATT0hQ8FQGQLI9ztvCa89cg/viewform?usp=sf_link)
 
 
 # Illustrations
