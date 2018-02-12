@@ -23,6 +23,11 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [MLE](//docs.google.com/forms/d/e/1FAIpQLSc3XGy0KIxTRbnzHnuT5fEjY427ISwp0EaHDgtq-n2SeTj77w/viewform?usp=sf_link)
 * Week 2-a
     * [Random words](//docs.google.com/forms/d/e/1FAIpQLSfDdqy0anGhrvWt6IakMhFCZF1ATT0hQ8FQGQLI9ztvCa89cg/viewform?usp=sf_link)
+    * [Random sentences]
+    * [MLE for unigram LMs]
+    * [MLE for bigram LMs]
+    * [Smoothing]
+    * [Perplexity]
 
 
 # Illustrations
