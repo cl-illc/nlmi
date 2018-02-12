@@ -24,6 +24,7 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
 * Week 2-a
     * [Random words](//docs.google.com/forms/d/e/1FAIpQLSfDdqy0anGhrvWt6IakMhFCZF1ATT0hQ8FQGQLI9ztvCa89cg/viewform?usp=sf_link)
     * [Random sentences](//docs.google.com/forms/d/e/1FAIpQLScsfWaRxANugMc9xrjXjwZ--RU_f2OhqWTf7B1Dn0cTCDVX8A/viewform?usp=sf_link)
+* Week 2-b
     * [MLE for unigram LMs](//docs.google.com/forms/d/e/1FAIpQLSejoBqelxLZ8pX7Mn85F9jn0V39jvJmFTQO8dcpGqHtoIZ6ww/viewform?usp=sf_link)
     * [MLE for bigram LMs](//docs.google.com/forms/d/e/1FAIpQLSebA7777sEsytxHTn9VeEOqaHE0IZPtfL2DHEVecBRbsqyBJg/viewform?usp=sf_link)
 
