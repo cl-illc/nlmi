@@ -26,8 +26,8 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [Random sentences](//docs.google.com/forms/d/e/1FAIpQLScsfWaRxANugMc9xrjXjwZ--RU_f2OhqWTf7B1Dn0cTCDVX8A/viewform?usp=sf_link)
 * Week 2-b
     * [MLE for unigram LMs](//docs.google.com/forms/d/e/1FAIpQLSejoBqelxLZ8pX7Mn85F9jn0V39jvJmFTQO8dcpGqHtoIZ6ww/viewform?usp=sf_link)
-    * [MLE for bigram LMs](//docs.google.com/forms/d/e/1FAIpQLSebA7777sEsytxHTn9VeEOqaHE0IZPtfL2DHEVecBRbsqyBJg/viewform?usp=sf_link)
     * [Markov models and n-gram LMs](//docs.google.com/forms/d/e/1FAIpQLSf2s2rWUkaEWOIufO57xMTr_-BWwOwp8HRx7BjOCyBR5WL9mw/viewform?usp=sf_link)
+    * [MLE for bigram LMs](//docs.google.com/forms/d/e/1FAIpQLSebA7777sEsytxHTn9VeEOqaHE0IZPtfL2DHEVecBRbsqyBJg/viewform?usp=sf_link)
 
 
 # Illustrations
