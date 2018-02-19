@@ -28,7 +28,8 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [MLE for unigram LMs](//docs.google.com/forms/d/e/1FAIpQLSejoBqelxLZ8pX7Mn85F9jn0V39jvJmFTQO8dcpGqHtoIZ6ww/viewform?usp=sf_link)
     * [Markov models and n-gram LMs](//docs.google.com/forms/d/e/1FAIpQLSf2s2rWUkaEWOIufO57xMTr_-BWwOwp8HRx7BjOCyBR5WL9mw/viewform?usp=sf_link)
     * [MLE for bigram LMs](//docs.google.com/forms/d/e/1FAIpQLSebA7777sEsytxHTn9VeEOqaHE0IZPtfL2DHEVecBRbsqyBJg/viewform?usp=sf_link)
-
+* Week 3-a
+    * [Conditional independence](//docs.google.com/forms/d/e/1FAIpQLSeXIqA1aZYPS29TrXYpblA9OCx7IqreqPbTwflSmGUSxQe7zg/viewform?usp=sf_link)
 
 # Illustrations
 
