@@ -15,3 +15,7 @@ Starting from week2-b our lectures will be recorded, check our [media folder](ht
 * [Week 3-a](lectures/week3-a.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
 
 
+# Additional material
+
+* [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
+* [Notes on directed graphical models](//github.com/wilkeraziz/notes/blob/master/machine-learning/PGM/main.pdf)
