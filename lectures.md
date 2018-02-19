@@ -12,5 +12,6 @@ Starting from week2-b our lectures will be recorded, check our [media folder](ht
 * [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
     * [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
 * [Week 2-a and 2-b](lectures/week2-a.pdf): probability of a sentence, n-gram language models, smoothing, perplexity 
+* [Week 3-a](lectures/week3-a.pdf): parts of speech, hidden Markov models, Viterbi algorithm
 
 
