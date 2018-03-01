@@ -14,4 +14,5 @@ Otherwise, check our [github repository](//github.com/uva-slpl/nlmi/tree/gh-page
 * Week1: reading text, data structures, Zipf's law
 * Week2: probability theory, maximum likelihood estimation 
 * Week3: n-gram language models (estimation, smoothing, evaluation)
-
+* Week4: HMM LM and tagging (estimation, evaluation)
+* Week5: HMM project (model selection, complete experimental setup, report)
