@@ -17,7 +17,7 @@ Starting from week2-b our lectures will be recorded, check our [media folder](ht
     * [HMMs](lectures/week3-a.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
 * Week 4: no lectures
 * [Week 5-a](lectures/week5-a.pdf): probabilistic context-free grammars (PCFGs)
-* Week 5-b: CFG parsing
+* [Week 5-b](lectures/week5-b.pdf): deductive systems and parsing
 
 # Additional material
 
