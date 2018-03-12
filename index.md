@@ -31,7 +31,6 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
 * Week 3-a and 3-b
     * [PGMs - Conditional independence](//docs.google.com/forms/d/e/1FAIpQLSeXIqA1aZYPS29TrXYpblA9OCx7IqreqPbTwflSmGUSxQe7zg/viewform?usp=sf_link)
     * [PGMs - Tabular vs Inferred](//docs.google.com/forms/d/e/1FAIpQLSfcTHXH8FpTCc9TpWaXJd9tdtVPc4vMVUDWefro4GxB_9tA_g/viewform?usp=sf_link)
-* Week 5-ab
 
 
 # Illustrations
