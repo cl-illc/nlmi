@@ -19,8 +19,8 @@ Starting from week2-b our lectures will be recorded, check our [media folder](ht
 * [Week 5-ab](lectures/week5-a.pdf): probabilistic context-free grammars (PCFGs)
 * [Week 6-ab](lectures/week5-b.pdf): deductive systems and parsing
 * [Week 7-a](exercises/guidetoexam.pdf): walkthrough guide and solution of selected exercises
-* [Week 7-b]: no lecture
-* [Week 8]: final exam
+* Week 7-b: no lecture
+* Week 8: final exam
 
 # Additional material
 
