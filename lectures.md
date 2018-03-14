@@ -18,6 +18,9 @@ Starting from week2-b our lectures will be recorded, check our [media folder](ht
 * Week 4: no lectures
 * [Week 5-ab](lectures/week5-a.pdf): probabilistic context-free grammars (PCFGs)
 * [Week 6-ab](lectures/week5-b.pdf): deductive systems, inside algorithm (marginal and Viterbi)
+* [Week 7-a](exercises/guidetoexam.pdf): walk through guide to final exam and solution of selected exercises
+* Week 7-b: no lecture
+* Week 8: final exam
 
 # Additional material
 
