@@ -16,3 +16,4 @@ Otherwise, check our [github repository](//github.com/uva-slpl/nlmi/tree/gh-page
 * Week3: n-gram language models (estimation, smoothing, evaluation)
 * Week4: HMM LM and tagging (estimation, evaluation)
 * Week5: HMM project (model selection, complete experimental setup, report)
+* Week6: PCFGs, generation, recognition
