@@ -45,7 +45,7 @@ where $$e$$ is your exam component and $$a$$ your assignments component. Your gr
 
 # Resit
 
-If you haven't scored the minimum necessary to pass the course (according to the criteria above), you will need a resit. Your resit grade will substitute only one of your components (the smallest) and your updated grade after the resit will again be a simple waited average:
+If you haven't scored the minimum necessary to pass the course (according to the criteria above), you will need a resit. Your resit grade can  substitute only one of your components (the smallest), and only if it improves your grade. Your updated grade after the resit will again be a simple waited average:
 
 \begin{equation}
 u = 0.5 \times \max(e, a) + 0.5 \times \max(r, \min(e, a))
