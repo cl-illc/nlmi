@@ -5,12 +5,8 @@ menu: yes
 mathjax: true
 ---
 
-Every week you work on lab assignments, they contain a bundle of:
+Your final grade in this course will depend on weekly assignments (code and theory exercises, as well as a report) and exams (midterm and final).
 
-    * code exercises
-    * theory questions
-
-Each exercise is worth a certain number of points (indicated in the exercise's description).
 
 # Assignments (50%)
 
@@ -20,15 +16,15 @@ There are 5 weekly practicals, each of which contributes 6% to your final grade 
 
 ## Report (20%)
 
-Throughout the course you will work on a report, there will be checkpoints where you will submit partial progress and received feedback from your TA. The final report $$r$$ will represent 20% of your final grade in this course.
+Throughout the course you will work on a report, there will be checkpoints where you will submit partial progress and received feedback from your TA. The final report will represent 20% of your final grade in this course.
 
 
 # Exams (50%)
 
 We have two exams:
 
-* the midterm $$m$$ will cover the content presented in the first 3 weeks of the course and represents 20% of your final grade in the course
-* the final exam $$f$$ may cover the complete content of the course and represents 30% of your final grade in the course.
+* the midterm will cover the content presented in the first 3 weeks of the course and represents 20% of your final grade in the course
+* the final exam may cover the complete content of the course and represents 30% of your final grade in the course.
 
 # Final grade
 
