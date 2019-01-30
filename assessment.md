@@ -32,26 +32,16 @@ Each component is summarised in a component grade via a simple weighted average 
 
 **But note that to pass this course** both components (exam and assignments) must be at least 5.
 
-In case one or both of your components is less than 5, you will need a resit. 
 
-In case both components are 5 or more, your final grade will be a simple average:
+In case your exam component is less than 5
+* you can opt for a resit, however, for this to be possible both your assignments component and your report grade must be at least 5
 
-\begin{equation}
-f = 0.5 \times e + 0.5 \times a
-\end{equation}
-
-where $$e$$ is your exam component and $$a$$ your assignments component. Your grade $$f$$ will be rounded to the nearest half-point.
+In case either your report grade or your assignments component is less than 5, you have failed the course.
 
 
 # Resit
 
-If you haven't scored the minimum necessary to pass the course (according to the criteria above), you will need a resit. Your resit grade can  substitute only one of your components (the smallest), and only if it improves your grade. Your updated grade after the resit will again be a simple waited average:
-
-\begin{equation}
-u = 0.5 \times \max(e, a) + 0.5 \times \max(r, \min(e, a))
-\end{equation} 
-
-where $$u$$ is your udpated grade, $$e$$ is your exam component, $$a$$ is your assignments component, and $$r$$ is your resit grade (normalised to a 10 points scale). Your grade $$u$$ will be rounded to the nearest half-point.
+Your resit grade can only substitute the exam component. 
 
 **Note that** if you need a resit you should prepare to answer questions covering the complete content of the course.
 
