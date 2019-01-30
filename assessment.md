@@ -28,14 +28,31 @@ We have two exams:
 
 # Final grade
 
-The final grade is a simple weighted average of the points you earned throughout the course, normalised to a 10 points scale, and rounded to nearest half-point. 
+Each component is summarised in a component grade via a simple weighted average of the points your earned throughout the course, normalised to a 10 points scale, and rounded to nearest half-point. 
 
-**But note that to pass this course**
+**But note that to pass this course** both components (exam and assignments) must be at least 5.
 
-* you must score at least 50% of the points available in the exam component 
-* you must score at least 50% of the points available in the assignment component
-    * and within the assignment component, you must score at least 50% of the points available for the report
+In case one or both of your components is less than 5, you will need a resit. 
 
-In case any of these constraints are not satisfied, your grade will be the smallest of the three.
+In case both components are 5 or more, your final grade will be a simple average:
+
+\begin{equation}
+f = 0.5 \times e + 0.5 \times a
+\end{equation}
+
+where $$e$$ is your exam component and $$a$$ your assignments component. Your grade $$f$$ will be rounded to the nearest half-point.
+
+
+# Resit
+
+If you haven't scored the minimum necessary to pass the course (according to the criteria above), you will need a resit. Your resit grade will substitute only one of your components (the smallest) and your updated grade after the resit will again be a simple waited average:
+
+\begin{equation}
+u = 0.5 \times \max(e, a) + 0.5 \times \max(r, \min(e, a))
+\end{equation} 
+
+where $$u$$ is your udpated grade, $$e$$ is your exam component, $$a$$ is your assignments component, and $$r$$ is your resit grade (normalised to a 10 points scale). Your grade $$u$$ will be rounded to the nearest half-point.
+
+**Note that** if you need a resit you should prepare to answer questions covering the complete content of the course.
 
 For more details check the course manual on Blackboard. 
