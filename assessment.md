@@ -5,55 +5,41 @@ menu: yes
 mathjax: true
 ---
 
-Every week you work on lab assignments with two types of exercises (practice and theory). Each exercise is worth a certain number of points (indicated in the exercise's description).
+Every week you work on lab assignments, they contain a bundle of:
 
-# Practice
+    * code exercises
+    * theory questions
 
-Most weeks you earn practice points $$p_i$$ computed as follows (for convenience we scale it to 10):
+Each exercise is worth a certain number of points (indicated in the exercise's description).
 
-\begin{equation}
-p_i = 10 \times \frac{\text{points achieved}}{\text{points possible}} 
-\end{equation}
+# Assignments (50%)
 
-Your final grade for practice is 
+## Practicals (30%)
 
-\begin{equation}
-    p = \frac{1}{n_p} \sum_{i=1}^{n_p} p_i
-\end{equation}
+There are 5 weekly practicals, each of which contributes 6% to your final grade in this course, thus together they will account for 30% of your final grade.
 
-where $$n_{p}$$ is the total number of practice assignments.
+## Report (20%)
 
-# Theory
-
-Most weeks you earn theory points $$t_i$$ computed just like before (again we scale it to 10)
-
-\begin{equation}
-t_i = 10 \times \frac{\text{points achieved}}{\text{points possible}} 
-\end{equation}
-
-Your final grade for theory is 
-
-\begin{equation}
-    t = \frac{1}{n_t} \sum_{i=1}^{n_t} t_i
-\end{equation}
-
-where $$n_{t}$$ is the total number of theory assignments.
-
-# Exam and Final Grade
-
-We have a single exam at the end of the course, and we denote by $e$ the points you earn
-
-\begin{equation}
-e = 10 \times \frac{\text{points achieved}}{\text{points possible}} 
-\end{equation}
-
-Your final grade $$g$$ is a weighted average where the exam counts 40%, practice counts 40%, and theory counts 20%:
-
-\begin{equation}
-    g = 0.4 \times e + 0.4\times p + 0.2 \times t
-\end{equation}
+Throughout the course you will work on a report, there will be checkpoints where you will submit partial progress and received feedback from your TA. The final report $$r$$ will represent 20% of your final grade in this course.
 
 
-*You will have to score at least 5 in each criterion in order to pass this course.*
+# Exams (50%)
+
+We have two exams:
+
+* the midterm $$m$$ will cover the content presented in the first 3 weeks of the course and represents 20% of your final grade in the course
+* the final exam $$f$$ may cover the complete content of the course and represents 30% of your final grade in the course.
+
+# Final grade
+
+The final grade is a simple weighted average of the points you earned throughout the course, normalised to a 10 points scale, and rounded to nearest half-point. 
+
+**But note that to pass this course**
+
+* you must score at least 50% of the points available in the exam component 
+* you must score at least 50% of the points available in the assignment component
+    * and within the assignment component, you must score at least 50% of the points available for the report
+
+In case any of these constraints are not satisfied, your grade will be the smallest of the three.
 
 For more details check the course manual on Blackboard. 
