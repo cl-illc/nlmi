@@ -19,9 +19,9 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [Sequence labelling](https://goo.gl/forms/FgzvQ7Sf6DT4lS1y1)
     * [Translation](https://goo.gl/forms/ssULqmOuJzSR44CJ3)
 * Week 1-b
-    * [Bernoulli distribution](//docs.google.com/forms/d/e/1FAIpQLSfM_T3YNHlyhGryZq3pNC4vVbk5gLOamBW8UEJTwFs-OKsoTg/viewform?usp=sf_link)
-    * [Categorical distribution](//docs.google.com/forms/d/e/1FAIpQLSfmwkWB0UJIXbhmAOMntLnY-5CfrdHJ8WjGPz1ktVpaQpMVsQ/viewform?usp=sf_link)
-    * [MLE](//docs.google.com/forms/d/e/1FAIpQLSc3XGy0KIxTRbnzHnuT5fEjY427ISwp0EaHDgtq-n2SeTj77w/viewform?usp=sf_link)
+    * [Bernoulli distribution](https://goo.gl/forms/5UzATMi5tod5JuLl1)
+    * [Categorical distribution](https://goo.gl/forms/uMtrS52lpC9BBlG42)
+    * [MLE](https://goo.gl/forms/wH89cSRe5jF1tQrL2)
 * Week 2-a
     * [Random words](//docs.google.com/forms/d/e/1FAIpQLSfDdqy0anGhrvWt6IakMhFCZF1ATT0hQ8FQGQLI9ztvCa89cg/viewform?usp=sf_link)
     * [Random sentences](//docs.google.com/forms/d/e/1FAIpQLScsfWaRxANugMc9xrjXjwZ--RU_f2OhqWTf7B1Dn0cTCDVX8A/viewform?usp=sf_link)
