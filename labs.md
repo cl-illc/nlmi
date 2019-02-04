@@ -4,16 +4,14 @@ title: Labs
 menu: yes
 ---
 
-If you are enrolled in the course, you can find all Lab material on [Blackboard](//blackboard.uva.nl).
+If you are enrolled in the course, you can find all Lab material on [Canvas](//canvas.uva.nl).
 
-Otherwise, check our [github repository](//github.com/uva-slpl/nlmi/tree/gh-pages/labs).
+Otherwise, check our [github repository](//github.com/cl-illc/nlmi/tree/gh-pages/labs).
 
 
 # Notebooks 
 
-* Week1: reading text, data structures, Zipf's law
-* Week2: probability theory, maximum likelihood estimation 
-* Week3: n-gram language models (estimation, smoothing, evaluation)
-* Week4: HMM LM and tagging (estimation, evaluation)
-* Week5: HMM project (model selection, complete experimental setup, report)
-* Week6: PCFGs, generation, recognition
+* Lab1: reading text, data structures, Zipf's law
+* Lab2: probability theory, maximum likelihood estimation 
+* Lab3: n-gram language models (estimation, smoothing, evaluation)
+* Lab4: HMM LM and tagging (estimation, evaluation)
