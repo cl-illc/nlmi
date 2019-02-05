@@ -45,4 +45,4 @@ Your resit grade can only substitute the exam component.
 
 **Note that** if you need a resit you should prepare to answer questions covering the complete content of the course.
 
-For more details check the course manual on Blackboard. 
+For more details check the course manual on Canvas.
