@@ -14,6 +14,7 @@ Course coordinator: [Wilker Aziz](//wilkeraziz.github.io)
 Sometimes we make use of anonymous quizzes (through Google forms) to make the lectures more interactive.
 
 * Week 1-a
+    * [Introduction](https://goo.gl/forms/wMyYwvVAfOL6EW2c2)
     * [Sequential prediction](https://goo.gl/forms/3C2mSDZ0ZCr49yei1)
     * [Sequence segmentation](https://goo.gl/forms/DBQdQFYt9PgHxD3D2)
     * [Sequence labelling](https://goo.gl/forms/FgzvQ7Sf6DT4lS1y1)
