@@ -23,13 +23,12 @@ Sometimes we make use of anonymous quizzes (through Google forms) to make the le
     * [Bernoulli distribution](https://goo.gl/forms/5UzATMi5tod5JuLl1)
     * [Categorical distribution](https://goo.gl/forms/uMtrS52lpC9BBlG42)
     * [MLE](https://goo.gl/forms/wH89cSRe5jF1tQrL2)
-* Week 2-a
-    * [Random words](//docs.google.com/forms/d/e/1FAIpQLSfDdqy0anGhrvWt6IakMhFCZF1ATT0hQ8FQGQLI9ztvCa89cg/viewform?usp=sf_link)
-    * [Random sentences](//docs.google.com/forms/d/e/1FAIpQLScsfWaRxANugMc9xrjXjwZ--RU_f2OhqWTf7B1Dn0cTCDVX8A/viewform?usp=sf_link)
-* Week 2-b
-    * [MLE for unigram LMs](//docs.google.com/forms/d/e/1FAIpQLSejoBqelxLZ8pX7Mn85F9jn0V39jvJmFTQO8dcpGqHtoIZ6ww/viewform?usp=sf_link)
-    * [Markov models and n-gram LMs](//docs.google.com/forms/d/e/1FAIpQLSf2s2rWUkaEWOIufO57xMTr_-BWwOwp8HRx7BjOCyBR5WL9mw/viewform?usp=sf_link)
-    * [MLE for bigram LMs](//docs.google.com/forms/d/e/1FAIpQLSebA7777sEsytxHTn9VeEOqaHE0IZPtfL2DHEVecBRbsqyBJg/viewform?usp=sf_link)
+* Week 2-ab
+    * [Random words](https://goo.gl/forms/j07X6gmjshMIYeWy1)
+    * [Random sentences](https://goo.gl/forms/YgtsHmFcdcokEH6I2)
+    * [MLE for unigram LMs](https://goo.gl/forms/NQXNo7J6EbbRkmC42)
+    * [Markov models and n-gram LMs](https://goo.gl/forms/w3dAebF1XiPxWIC63)
+    * [MLE for bigram LMs](https://goo.gl/forms/nnTtaqnf6YqqBTFB3)
 * Week 3-a and 3-b
     * [PGMs - Conditional independence](//docs.google.com/forms/d/e/1FAIpQLSeXIqA1aZYPS29TrXYpblA9OCx7IqreqPbTwflSmGUSxQe7zg/viewform?usp=sf_link)
     * [PGMs - Tabular vs Inferred](//docs.google.com/forms/d/e/1FAIpQLSfcTHXH8FpTCc9TpWaXJd9tdtVPc4vMVUDWefro4GxB_9tA_g/viewform?usp=sf_link)
