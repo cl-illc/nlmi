@@ -11,7 +11,7 @@ Otherwise, check our [github repository](//github.com/cl-illc/nlmi/tree/gh-pages
 
 # Notebooks 
 
-* Lab1: reading text, data structures, Zipf's law
-* Lab2: probability theory, maximum likelihood estimation 
-* Lab3: n-gram language models (estimation, smoothing, evaluation)
+* Lab1 ([github](https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab1), [zip](https://kinolien.github.io/gitzip/?download=https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab1)): reading text, data structures, Zipf's law
+* Lab2 ([github](https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab2), [zip](https://kinolien.github.io/gitzip/?download=https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab2)): probability theory, maximum likelihood estimation 
+* Lab3 ([github](https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab3), [zip](https://kinolien.github.io/gitzip/?download=https://github.com/cl-illc/nlmi/tree/gh-pages/labs/lab3)): n-gram language models (estimation, smoothing, evaluation)
 * Lab4: HMM LM and tagging (estimation, evaluation)
