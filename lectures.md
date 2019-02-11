@@ -9,9 +9,10 @@ menu: yes
 * [Week 1-a](lectures/week1-a.pdf): intro to the course, what's NLP about, overview of problems
 * [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
     * [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
-* Week 2:
+* Week 2a and 2b:
     * Before class: [Notes on directed graphical models](//github.com/wilkeraziz/notes/blob/master/machine-learning/PGM/main.pdf) and [slides on directed graphical models](lectures/pgms.pdf)
     * [Week 2-ab](lectures/week2.pdf): probability of a sentence, n-gram language models, smoothing, perplexity 
+    * Textbook: Ch4 (2nd edition) or Ch3 (3rd edition)
 * Week 3-a and 3-b:
     * [HMMs](lectures/week3-a.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
 * Week 4: no lectures
