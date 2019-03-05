@@ -18,10 +18,9 @@ menu: yes
         * Marginal probabilities explained: [errata](lectures/forward-errata.pdf) and [notebook](labs/forward/Forward.ipynb)
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
 * Week 4: no lectures
-* [Week 5-ab](lectures/week5-a.pdf): probabilistic context-free grammars (PCFGs)
-* [Week 6-ab](lectures/week5-b.pdf): deductive systems, inside algorithm (marginal and Viterbi)
-* [Week 7-a](exercises/guidetoexam.pdf): walk through guide to final exam and solution of selected exercises
-    * [answers](exercises/guidetoexam-answers.pdf)
+* Week 5
+    * Logistic cpds
+* Week 6
 * Week 7-b: no lecture
 * Week 8: final exam
 
