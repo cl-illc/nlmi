@@ -19,8 +19,11 @@ menu: yes
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
 * Week 4: no lectures
 * Week 5
-    * Logistic cpds
+    * [Probabilistic context free grammars](lectures/week5-a.pdf)
+    * Textbook: Ch 12-14 (2n edition)
 * Week 6
-* Week 7-b: no lecture
+    * Feature-rich models 
+* Week 7:
+    * Lexical semantics
 * Week 8: final exam
 
