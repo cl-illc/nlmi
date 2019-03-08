@@ -20,6 +20,7 @@ menu: yes
 * Week 4: no lectures
 * Week 5
     * [Probabilistic context free grammars](lectures/week5-a.pdf)
+    * [Parsing and inside algorithm](lectures/week5-b.pdf)
     * Textbook: Ch 12-14 (2n edition)
 * Week 6
     * Feature-rich models 
