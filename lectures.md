@@ -23,7 +23,7 @@ menu: yes
     * Parsing and inside algorithm: [pdf](lectures/week5-b.pdf), [keynote](lectures/week5-b.key)
     * Textbook: Ch 12-14 (2n edition)
 * Week 6
-    * [Logistic CPDs](lectures/week6-a.pdf) (aka feature-rich models)
+    * Feature-rich models: [logistic CPDs](lectures/week6-a.pdf)
     * Applications of logistic regression to NLP
 * Week 7:
     * Lexical semantics
