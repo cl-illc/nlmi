@@ -22,10 +22,8 @@ menu: yes
     * [Probabilistic context free grammars](lectures/week5-a.pdf)
     * Parsing and inside algorithm: [pdf](lectures/week5-b.pdf), [keynote](lectures/week5-b.key)
     * Textbook: Ch 12-14 (2n edition)
-* Week 6
+* Week 6-7
     * Feature-rich models: [logistic CPDs](lectures/week6-a.pdf)
-    * Applications of logistic regression to NLP
-* Week 7:
-    * Lexical semantics
+    * [Applications](lectures/week6-b.pdf) of feature-rich models to NLP
 * Week 8: final exam
 
