@@ -25,5 +25,6 @@ menu: yes
 * Week 6-7
     * Feature-rich models: [logistic CPDs](lectures/week6-a.pdf)
     * [Applications](lectures/week6-b.pdf) of feature-rich models to NLP
+        * text classification and richer components in generative models
 * Week 8: final exam
 
