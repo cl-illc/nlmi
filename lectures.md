@@ -4,11 +4,15 @@ title: Lectures
 menu: yes
 ---
 
-# Slides
+# Slides 2020
 
 * [Week 1-a](lectures/week1-a.pdf): intro to the course, what's NLP about, overview of problems
 * [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
     * Further reading: [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
+
+
+# Slides 2019
+
 * Week 2a and 2b:
     * Before class: [Notes on directed graphical models](//github.com/wilkeraziz/notes/blob/master/machine-learning/PGM/main.pdf) and [slides on directed graphical models](lectures/pgms.pdf)
     * [Week 2-ab](lectures/week2.pdf): probability of a sentence, n-gram language models, smoothing, perplexity 
