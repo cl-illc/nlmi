@@ -6,7 +6,7 @@ menu: yes
 
 # Slides 2020
 
-* [Week 1-a](lectures/week1-a.pdf): intro to the course, what's NLP about, overview of problems
+* [Week 1-a](lectures/week1-a.pdf): course organisation, what's NLP about, overview of problems
 * [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
     * Further reading: [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
 
