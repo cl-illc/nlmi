@@ -7,7 +7,7 @@ menu: yes
 # Slides 2020
 
 * [Week 1-a](lectures/week1-a.pdf): course organisation, what's NLP about, overview of problems, first contact with text data
-* [Week 1-b](lectures/week1-b.pdf): probability theory, maximum likelihood estimation 
+* [Week 1-b](lectures/week1-b.pdf): recap of probability theory, maximum likelihood estimation 
     * Further reading: [Notes on MLE for Bernoulli and Categorical](//github.com/wilkeraziz/notes/blob/master/machine-learning/MLE/main.pdf)
 
 
