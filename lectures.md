@@ -14,7 +14,7 @@ menu: yes
     * [Week 2-ab](lectures/week2.pdf): probability of a sentence, n-gram language models, smoothing, perplexity 
     * Textbook: Ch4 (2nd edition) or Ch3 (3rd edition)
 * Week 3-a and 3-b:
-    * [HMMs](lectures/week3-a.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
+    * [HMMs](lectures/week3.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
         * Marginal probabilities explained: [notebook](labs/forward/Forward.ipynb)
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
 
