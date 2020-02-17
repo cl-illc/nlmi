@@ -13,13 +13,13 @@ menu: yes
     * Before class: [Notes on directed graphical models](//github.com/wilkeraziz/notes/blob/master/machine-learning/PGM/main.pdf) and [slides on directed graphical models](lectures/pgms.pdf)
     * [Week 2-ab](lectures/week2.pdf): probability of a sentence, n-gram language models, smoothing, perplexity 
     * Textbook: Ch4 (2nd edition) or Ch3 (3rd edition)
-
-# Slides 2019
-
 * Week 3-a and 3-b:
     * [HMMs](lectures/week3-a.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
         * Marginal probabilities explained: [notebook](labs/forward/Forward.ipynb)
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
+
+# Slides 2019
+
 * Week 4: no lectures
 * Week 5
     * [Probabilistic context free grammars](lectures/week5-a.pdf)
