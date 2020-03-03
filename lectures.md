@@ -17,10 +17,12 @@ menu: yes
     * [HMMs](lectures/week3.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
         * Marginal probabilities: [notebook](labs/forward/Forward.ipynb)
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
+* Week 4: no lectures
+* Week 5
+    * Feature-rich models: [naive Bayes and logistic CPDs](lectures/NB-LR.pdf)
 
 # Slides 2019
 
-* Week 4: no lectures
 * Week 5
     * [Probabilistic context free grammars](lectures/week5-a.pdf)
     * Parsing and inside algorithm: [pdf](lectures/week5-b.pdf), [keynote](lectures/week5-b.key)
