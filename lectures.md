@@ -19,13 +19,13 @@ menu: yes
     * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
 * Week 4: no lectures
 * Week 5
-    * Feature-rich models: [naive Bayes and logistic CPDs](lectures/NB-LR.pdf)
+    * Feature-rich models: [naive Bayes and logistic CPDs](lectures/week5-a.pdf)
 
 # Slides 2019
 
 * Week 5
-    * [Probabilistic context free grammars](lectures/week5-a.pdf)
-    * Parsing and inside algorithm: [pdf](lectures/week5-b.pdf), [keynote](lectures/week5-b.key)
+    * [Probabilistic context free grammars](lectures/pcfg-a.pdf)
+    * Parsing and inside algorithm: [pdf](lectures/pcfg-b.pdf), [keynote](lectures/pcfg-b.key)
     * Textbook: Ch 12-14 (2n edition)
 * Week 6-7
     * Feature-rich models: [logistic CPDs](lectures/week6-a.pdf)
