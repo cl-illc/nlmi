@@ -15,8 +15,8 @@ menu: yes
     * Textbook: Ch4 (2nd edition) or Ch3 (3rd edition)
 * Week 3-a and 3-b:
     * [HMMs](lectures/week3.pdf): parts of speech, hidden Markov models (HMM) for language modelling and POS tagging, Viterbi algorithm
-        * Marginal probabilities: [notebook](labs/forward/Forward.ipynb)
-    * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition)
+        * Marginal probabilities: [notebook](labs/forward/Forward.ipynb) and [tutorial](https://surfdrive.surf.nl/files/index.php/s/n0Q1XnRt4NZ5z7C)
+    * Textbook: Ch5 (2nd edition) or Ch8 (3rd edition) and Appendix A (for the forward algorithm)
 * Week 4: no lectures
 * Week 5
     * Feature-rich models: [naive Bayes and logistic CPDs](lectures/week5-a.pdf)
