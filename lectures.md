@@ -20,6 +20,7 @@ menu: yes
 * Week 4: no lectures
 * Week 5
     * Feature-rich models: [naive Bayes and logistic CPDs](lectures/week5-a.pdf)
+    * [Applications to classification and to generative models](lectures/week5-b.pdf)
 
 # Slides 2019
 
